@@ -1,1 +1,1 @@
-# pecten
+# Market radar powered by AI
